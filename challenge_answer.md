@@ -1,4 +1,5 @@
 Challenge answer
+
 Which houses should de CEO of House Rocket buy and a what purchase price? The homes that the CEO must buy are divided into two groups, the first one consists of a house with all the ideal attributes and that is priced well below the average for that profile (id number: 7284900030), so the recommended purchase price is around $774,470.00 to sell after for 1,475,000 dollars. The second one consists of two houses with a great location and a much lower price than the average for that location with an ideal square feet (id number 9808590210 / 644210020) and the recommended purchase price is around 919,770.00 to sell after for 1,532,950
 
 Once the house is owned by the company, what's the best moment to sell it and what would be the sale price? The best moment to sell the house is from April to June, more precisely in April, since these months have the highest average price and also a good frequency of sales
